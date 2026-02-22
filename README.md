@@ -215,7 +215,10 @@ MIT License. See LICENSE file.
 
 ## Authors
 
-Sambhav Dwivedi - sambhavdwivedi.in  
-United Tech Community - unitedtechcommunity.in  
+Sambhav Dwivedi - 
+<a href="https://sambhavdwivedi.in" target="_blank">sambhavdwivedi.in</a><br>
+
+United Tech Community - 
+<a href="https://unitedtechcommunity.in" target="_blank">unitedtechcommunity.in</a>
 
 Built with ❤️ using Python and React.
